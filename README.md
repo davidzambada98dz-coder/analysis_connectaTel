@@ -53,5 +53,7 @@ El bajo uso representa el segundo grupo en tamaño.
 
 El segmento adulto es el principal generador de volumen y valor, por lo que debe mantenerse como foco prioritario esto puede realizarse mediante la implementación campañas de upgrade de Básico a Premium, especialmente en usuarios adultos con uso medio o alto.
 Los jóvenes representan una oportunidad de crecimiento a largo plazo si se logra incrementar su participación esto puede realizarse diseñando beneficios específicos o planes adaptados para aumentar adopción, tambien integrando funcionalidades más digitales o sociales.
+
+
 NOTEKBOOK abrirlo en Google Colab
 https://colab.research.google.com/drive/1sA8pMOd9nSDCJ8_fU4K05jWqp9Zbhwl9?usp=sharing
