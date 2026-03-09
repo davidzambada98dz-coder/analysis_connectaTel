@@ -43,10 +43,12 @@ Se detectaron fechas imposibles en date set users.
 El segmento Adulto concetra la mayor cocentración de usuarios
 El grupo Adulto mayor representa un segmento relevante pero menor.
 Los Adultos presentan la mayor cantidad de usuarios Premium.
+
 📊 Segmentos por Nivel de Uso
 
 Predomina el uso medio, que concentra la mayor cantidad de usuarios.
 El bajo uso representa el segundo grupo en tamaño.
+
 ➡️ Esto sugiere que el producto o servicio tiene mayor afinidad con usuarios en etapa laboral activa. Ademas que existen portunidades para incrementar la frecuencia o intensidad de uso.
 
 💡 Recomendaciones
