@@ -1,18 +1,31 @@
 # analysis_connectaTel
 identificacion patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos por la empresa.
 Paso 1: Cargar y explorar:
+
 En esta etapa, valido que los archivos se carguen correctamente, conocerás sus columnas y tipos de datos, y detectarás posibles inconsistencias.
+
 Paso 2: Identificación de problemas de calidad de datos:
+
 Detectar la presencia y magnitud de valores faltantes para evaluar si afectan el análisis o requieren imputación/eliminación.
+
 Paso 3: Limpieza básica de datos
+
 Aplicar reglas de limpieza para reemplazar valores sentinels y corregir fechas imposibles.
+
 Paso 4: Summary statistics de uso por usuario:
+
 Agrupación por comportamiento de uso
+
 Paso 5: Visualización de distribuciones (uso y clientes) y outliers:
+
 Entender visualmente cómo se comportan las variables clave tanto de uso como de clientes, observar si existen diferencias según el tipo de plan, y analizar la forma de la distribución.
+
 Paso 6: Segmentación de Clientes:
+
 Clasificar a cada usuario en un grupo de uso (Bajo uso, Uso medio, Alto uso) basándose en la cantidad de llamadas y mensajes registrados
+
 Paso 7: Insight Ejecutivo para Stakeholders:
+
 Análisis ejecutivo
 ⚠️ Problemas detectados en los datos
 
